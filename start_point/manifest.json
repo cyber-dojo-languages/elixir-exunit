@@ -13,7 +13,9 @@
 
   "image_name": "cyberdojofoundation/elixir_exunit",
 
-  "filename_extension" : ".ex",
+  "runner_choice": "stateless",
 
-  "runner_choice": "stateless"
+  "max_seconds": 15,
+
+  "filename_extension" : ".ex"
 }
