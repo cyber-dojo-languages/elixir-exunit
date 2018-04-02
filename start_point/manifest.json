@@ -17,5 +17,5 @@
 
   "max_seconds": 15,
 
-  "filename_extension" : ".ex"
+  "filename_extension": ".ex"
 }
