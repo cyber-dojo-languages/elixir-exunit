@@ -1,4 +1,3 @@
-
 [![CircleCI](https://circleci.com/gh/cyber-dojo-languages/elixir-exunit.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/elixir-exunit)
 
 ## display_name="Elixir, ExUnit"
