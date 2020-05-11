@@ -1,8 +1,8 @@
-
 {
   "image_name": "cyberdojofoundation/elixir_exunit",
   "display_name": "Elixir, ExUnit",
-  "visible_filenames": [
+  "visible_filenames":
+  [
    "config/config.exs",
    "lib/hiker.ex",
    "test/hiker_test.exs",
