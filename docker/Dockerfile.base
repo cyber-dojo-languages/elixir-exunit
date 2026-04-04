@@ -1,4 +1,2 @@
-FROM cyberdojofoundation/elixir:a5ab1a0
+FROM ghcr.io/cyber-dojo-languages/elixir:69da6cc
 LABEL maintainer=jon@jaggersoft.com
-
-COPY red_amber_green.rb /usr/local/bin
