@@ -1,2 +1,2 @@
-FROM ghcr.io/cyber-dojo-languages/elixir:9aace7d
+FROM ghcr.io/cyber-dojo-languages/elixir:17295b0
 LABEL maintainer=jon@jaggersoft.com
