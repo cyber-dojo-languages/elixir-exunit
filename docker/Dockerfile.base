@@ -1,4 +1,4 @@
-FROM ghcr.io/cyber-dojo-languages/elixir:0f0d628
+FROM ghcr.io/cyber-dojo-languages/elixir:84d6d53@sha256:528a22668ea8ba66568023d2369018bd92a2d007224375c31f81a49ebf879141
 LABEL maintainer=jon@jaggersoft.com
 
 COPY install.sh .
